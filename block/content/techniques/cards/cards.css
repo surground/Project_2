@@ -1,0 +1,10 @@
+.cards {
+  width: 920px;
+  justify-self: center;
+  flex-direction: row;
+  justify-content: space-between;
+  display: grid;
+  grid-template-columns: 180px 180px 180px;
+  column-gap: 20px;
+  row-gap: 60px;
+}
